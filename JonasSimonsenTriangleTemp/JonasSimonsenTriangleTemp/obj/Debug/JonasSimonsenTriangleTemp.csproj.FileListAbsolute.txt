@@ -1,0 +1,6 @@
+c:\users\andreas\documents\visual studio 2015\Projects\JonasSimonsenTriangleTemp\JonasSimonsenTriangleTemp\bin\Debug\JonasSimonsenTriangleTemp.exe.config
+c:\users\andreas\documents\visual studio 2015\Projects\JonasSimonsenTriangleTemp\JonasSimonsenTriangleTemp\bin\Debug\JonasSimonsenTriangleTemp.exe
+c:\users\andreas\documents\visual studio 2015\Projects\JonasSimonsenTriangleTemp\JonasSimonsenTriangleTemp\bin\Debug\JonasSimonsenTriangleTemp.pdb
+c:\users\andreas\documents\visual studio 2015\Projects\JonasSimonsenTriangleTemp\JonasSimonsenTriangleTemp\obj\Debug\JonasSimonsenTriangleTemp.csprojResolveAssemblyReference.cache
+c:\users\andreas\documents\visual studio 2015\Projects\JonasSimonsenTriangleTemp\JonasSimonsenTriangleTemp\obj\Debug\JonasSimonsenTriangleTemp.exe
+c:\users\andreas\documents\visual studio 2015\Projects\JonasSimonsenTriangleTemp\JonasSimonsenTriangleTemp\obj\Debug\JonasSimonsenTriangleTemp.pdb
